@@ -1,0 +1,121 @@
+body{
+    margin: 0%;
+}
+.header-style{
+    width: 220vh;
+    height: 130vh;
+    background-image: url(image/pexels-valeria-boltneva-842571.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.margin{
+    width: 80%;
+    display: flex;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: antiquewhite;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.login{
+    background-image: linear-gradient(rgb(247, 124, 52),rgb(95, 203, 236));
+    padding: 5px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.i-l{
+    width: 80%;
+    text-align: right;
+
+}
+section{
+    display: flex;
+}
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#tx-size{
+    font-size: 35px;
+}
+.text-color{
+    color: goldenrod;
+}
+#pad{
+    padding-top: 5%;
+}
+.pic-size{
+    width: 45%;
+    padding-left: 5%;
+
+}
+.pic-size img{
+width: 100%;
+}
+.b-color{
+    text-decoration: none;
+    color: antiquewhite;
+    background-image: linear-gradient(rgb(52, 104, 247),rgb(95, 203, 236));
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-weight: 800;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#height img{
+    width: 60%;
+    padding-top: 30px;
+}
+#pad2{
+    padding-top:10%;
+    padding-right: 5%;
+    text-align: justify;
+}
+.b-img{
+    background-image: url(image/Frame\ 57.jpg);
+}
+#cntr{
+    text-align: center;
+}
+.box2{
+    width: 40%;
+    padding-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-radius: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 40px gray ;
+    text-align: justify;
+}
+.box2 img{
+    width: 100%;
+    height: 50%;
+    border-radius: 5%;
+}
+#no-box{
+    text-align: center;
+}
+.sdo{
+    width: 90%;
+    border: 2% solid;
+    border-radius: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
+.box{
+    width: 100%;
+    text-align: center;
+}
+.foot-clr{
+    color: gray;
+    background-color:rgb(31, 30, 30);
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+}
+.foot-clr p{
+    color: white;
+}
